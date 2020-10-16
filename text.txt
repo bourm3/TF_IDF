@@ -2,3 +2,4 @@ This is a text file.
 It contains a number of words.
 It has been created for exercise 3.16 of the Python tranining course.
 It is to be used to test opening and reading in files.
+It

@@ -1,1 +1,2 @@
-It has a number of words.
+This is a text file.
+by Bourne
